@@ -1,0 +1,3 @@
+.vscode/*
+terraform.tfvars
+terraform_vsphere.code-workspace
